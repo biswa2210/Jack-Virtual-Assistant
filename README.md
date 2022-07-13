@@ -36,8 +36,7 @@ I have made this so that I can easily work with applications.
 
 ```bash
 JACK-VIRTUAL-ASSISTANT
-    ├── scorecard.txt
-    └── mp3 songs
+    └── JACK.cpp
 ```
     
 ## Screenshots :point_down: 
