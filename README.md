@@ -20,7 +20,7 @@
 
 <div align="justified">
     
-JACK is a virtual assistant. It takes user whatever user wants to open like google, you tube, system realted applications etc.
+JACK is a virtual assistant. It takes user whatever user wants to open like google, you tube, system realted applications etc. It can check even odd, prime, palindrome etc numbers in range or normally it can check.
  
 </div>
 
@@ -43,7 +43,15 @@ JACK-VIRTUAL-ASSISTANT
 
 <div align="center">
     
-<a href=""><img src="" width="400" height= "280"></a> <a href=""><img src="" width="400" height= "280"></a>
+<a href="jack1.png"><img src="jack1.png" width="800" height= "380"></a> 
+
+<a href="jack2.png"><img src="jack2.png" width="800" height= "380"></a> 
+
+<a href="jack3.png"><img src="jack3.png" width="800" height= "380"></a> 
+
+<a href="jack4.png"><img src="jack4.png" width="800" height= "380"></a> 
+
+<a href="jack5.png"><img src="jack5.png" width="800" height= "380"></a> 
 
 </div>
 
